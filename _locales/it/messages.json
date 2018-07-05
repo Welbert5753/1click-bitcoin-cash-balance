@@ -1,0 +1,14 @@
+{
+  "submit": {"message": "Check" },
+  "insert_wallet": {"message": "Insert $1 hash" },
+  "success": {"message": "Balance of wallet is" },
+  "balance": {"message": "$1 balance" },
+  "edit_coin": {"message": "Edit $1 id" },
+  "edit": {"message": "Edit" },
+  "error": {"message": "Sorry, something went wrong" },
+  "please_wait": {"message": "Please wait" },
+  "browser_action": {"message": "Get bitcoin cash balance" },
+  "ext_desc": {"message": "Get bitcoin cash balance in one click" },
+  "ext_name": {"message": "1Click Bitcoin Cash Balance" }
+}
+
